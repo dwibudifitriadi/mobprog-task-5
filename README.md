@@ -14,9 +14,9 @@
 
 | Login Page | Register Page | Validation & Dialog |
 |---|---|---|
-| <img width="10"  alt="image" src="https://github.com/user-attachments/assets/fcda877b-90e4-4cc4-8483-6d113497880a" />
- | <img width="10" alt="image" src="https://github.com/user-attachments/assets/b610f0fb-cf5c-418e-8658-701e00db5992" />
- | <img width="10" alt="image" src="https://github.com/user-attachments/assets/201ae703-dc02-43d1-adcd-2b1ad0f2a4f3" />
+|![Login] (<img width="200"  alt="image" src="https://github.com/user-attachments/assets/fcda877b-90e4-4cc4-8483-6d113497880a" />)
+ |![Register] (<img width="200" alt="image" src="https://github.com/user-attachments/assets/b610f0fb-cf5c-418e-8658-701e00db5992" />)
+ |![Dialog] (img width="200" alt="image" src="https://github.com/user-attachments/assets/201ae703-dc02-43d1-adcd-2b1ad0f2a4f3" />)
 
 ## Teknologi yang Digunakan
 
