@@ -10,14 +10,16 @@
     - AlertDialog konfirmasi sebelum data dikirim.
     - AlertDialog konfirmasi untuk pengosongan form.
 -
-## 📸 Cuplikan Layar
+## Screenshot
 
 | Login Page | Register Page | Validation & Dialog |
 |---|---|---|
-| ![Login](https://via.placeholder.com/200x400?text=Login+Screen) | ![Register](https://via.placeholder.com/200x400?text=Register+Screen) | ![Dialog](https://via.placeholder.com/200x400?text=Dialog+Confirmation) |
-*(Ganti URL gambar di atas dengan screenshot asli aplikasi Anda)*
+| <img width="658" height="1437" alt="image" src="https://github.com/user-attachments/assets/fcda877b-90e4-4cc4-8483-6d113497880a" />
+ | <img width="657" height="1434" alt="image" src="https://github.com/user-attachments/assets/b610f0fb-cf5c-418e-8658-701e00db5992" />
+ | <img width="658" height="1448" alt="image" src="https://github.com/user-attachments/assets/201ae703-dc02-43d1-adcd-2b1ad0f2a4f3" />
+ |
 
-## 🛠️ Teknologi yang Digunakan
+## Teknologi yang Digunakan
 
 - **Language**: [Kotlin](https://kotlinlang.org/)
 - **UI Framework**: Material Design Components (MDC)
@@ -25,23 +27,12 @@
 - **Tools**: Android Studio (Ladybug atau versi terbaru)
 - **Minimum SDK**: API 24 (Android 7.0)
 
-## 🚀 Cara Menjalankan
 
-1. Clone repositori ini:
-2. Buka proyek di **Android Studio**.
-3. Tunggu proses **Gradle Sync** selesai.
-4. Jalankan aplikasi di Emulator atau perangkat fisik Android.
-
-## 📂 Struktur Proyek Utama
+## Struktur Folder
 
 - `MainActivity.kt`: Menangani logika halaman Login dan navigasi.
 - `RegisterActivity.kt`: Menangani logika pendaftaran, validasi real-time, dan gestur.
-- `res/layout/`: Berisi file XML untuk tampilan UI minimalis.
-- `res/values/strings.xml`: Kamus data untuk semua teks dalam aplikasi.
-
-## 🤝 Kontribusi
-
-Kontribusi selalu terbuka! Jika Anda memiliki saran atau ingin menambahkan fitur baru, silakan buat *Pull Request* atau ajukan *Issue*.
+- `res/layout/`: Berisi file XML untuk tampilan.
+- `res/values/strings.xml`: Hanya kamus.
 
 ---
-Dibuat dengan ❤️ oleh Dwi Budi Fitri Adi
